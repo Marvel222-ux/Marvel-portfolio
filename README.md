@@ -12,6 +12,7 @@ I'm a self-taught data analyst - now building impacts projects in Excel, SQL, Po
   ## My Projects
   - [Business-dashboard-analysis](https://github.com/Marvel222-ux/Business-dashboard-analysis)
   - [Student performance analysis](https://github.com/Marvel222-ux/Student-performance-analysis/blob/main/README.md)
+  - [Personal finance tracker](https://github.com/Marvel222-ux/Personal-finance-analysis/blob/main/README.md)
 
   ## Currently Learning
   - Advanced SQL
