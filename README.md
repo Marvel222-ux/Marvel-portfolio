@@ -1,2 +1,20 @@
-# Marvel-portfolio
-Personal Github profile eo showcase projects and tools i work with.
+# Hi, I'm Racheal!
+
+I'm a self-taught data analyst - now building impacts projects in Excel, SQL, Power BI, and Python.
+
+## Tools I work with
+- Microsoft Excel
+- SQL
+- Power BI
+- Python
+- Goggle sheets
+
+  ## My Projects
+  - [Business dashboard analysis] (....)
+
+  ## Currently Learning
+  - Advanced SQL
+  - PMP
+
+  ## Let's Connect!
+  [LinkedIn](https://www.linkedin.com/in/kilanko-racheal-97289640a?utm_source=share_via&utm_content=profile&utm_medium=member_ios)
