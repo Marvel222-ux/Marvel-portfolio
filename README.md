@@ -10,7 +10,7 @@ I'm a self-taught data analyst - now building impacts projects in Excel, SQL, Po
 - Goggle sheets
 
   ## My Projects
-  - [Business dashboard analysis] (....)
+  - [Business dashboard analysis] (https://github.com/Marvel222-ux/Business-dashboard-analysis)
 
   ## Currently Learning
   - Advanced SQL
