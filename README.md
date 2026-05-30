@@ -16,6 +16,7 @@ I'm a self-taught data analyst - now building impacts projects in Excel, SQL, Po
   - [Netflix_Data](https://github.com/Marvel222-ux/Netflix_Data/tree/main)
   - [Data_Cleaning](https://github.com/Marvel222-ux/Data_Cleaning)
   - [Explanatory-Data-Analysis](https://github.com/Marvel222-ux/Explanatory-Data-Analysis/blob/main/README.md)
+  - [HR_Attrition](https://github.com/Marvel222-ux/HR_Analytics/tree/main)
 
   ## Currently Learning
   - Advanced SQL
