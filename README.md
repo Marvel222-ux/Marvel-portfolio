@@ -14,6 +14,7 @@ I'm a self-taught data analyst - now building impacts projects in Excel, SQL, Po
   - [Student performance analysis](https://github.com/Marvel222-ux/Student-performance-analysis/blob/main/README.md)
   - [Personal finance tracker](https://github.com/Marvel222-ux/Personal-finance-analysis/blob/main/README.md)
   - [Netflix_Data](https://github.com/Marvel222-ux/Netflix_Data/tree/main)
+  - [Data_Cleaning](https://github.com/Marvel222-ux/Data_Cleaning)
 
   ## Currently Learning
   - Advanced SQL
